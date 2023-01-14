@@ -12,7 +12,7 @@
         <samp>
                 「 Developing ideas | Designing experiences 」
                 <br>
-                「 I am a front-end web developer and game designer <b>Panamanian</b> 」
+                「 I am a front-end web developer <b>Panamanian</b> 」
                 <br>
                 「 Future Goals Learn more technologies 」
                  <br>
