@@ -16,7 +16,7 @@
                 <br>
                 「 Future Goals Learn more technologies 」
                  <br>
-                「 I’m currently working on web development technologies like JavaScript and React 」
+                「 I’m currently working on web development technologies like TypeScript and React 」
         <!-- Code logo -->
       
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
