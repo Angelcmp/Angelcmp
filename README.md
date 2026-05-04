@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Angel Campo</a></b>
+                <b><a target="_blank" href="#">Angel</a></b>
         </samp>
 </h3>
 <br>
@@ -10,9 +10,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 Developing ideas | Designing experiences 」
-                <br>
-                「 I am a front-end web developer <b>Panamanian</b> 」
+                「 I am a developer <b>Panamanian</b> 」
                 <br>
                 「 Future Goals Learn more technologies 」
                  <br>
@@ -23,13 +21,10 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
         
 </p>
 
@@ -43,10 +38,6 @@
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/ancjv/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-        <!-- Youtube -->
-        <a href="#" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
     </p>  
 </details>
